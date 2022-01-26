@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codemancers/static/css/main.865864c4.css",
+    "main.js": "/codemancers/static/js/main.74252f79.js",
+    "static/js/787.a057ce13.chunk.js": "/codemancers/static/js/787.a057ce13.chunk.js",
+    "index.html": "/codemancers/index.html",
+    "main.865864c4.css.map": "/codemancers/static/css/main.865864c4.css.map",
+    "main.74252f79.js.map": "/codemancers/static/js/main.74252f79.js.map",
+    "787.a057ce13.chunk.js.map": "/codemancers/static/js/787.a057ce13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865864c4.css",
+    "static/js/main.74252f79.js"
+  ]
+}
